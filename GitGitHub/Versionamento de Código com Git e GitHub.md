@@ -89,11 +89,11 @@ git config init.defaultBranch
 ```
 git clone https://github.com/user-name/hello-world.git
 user-name
-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 (token gerado no github)
+ghp_5WEWUbdGbaPVnGEEEEH0Omxj7m62NBXo044u4O (token gerado no github)
 git config --global credential.helper store (salvar o repositório permanentemente para não precisar ficar gerando tokens)
 git clone https://github.com/user-name/hello-world.git
 user-name
-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 (token gerado no github)
+ghp_5WEWUbdGbaPVnGEEEEE0Omxj7m62NBXo044u4O (token gerado no github)
 (apagar a pasta "hello-world") git clone https://github.com/user-name/hello-world.git
 ```
 
